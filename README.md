@@ -1,4 +1,4 @@
-# AROL-CLOUD (SDP Project Group 6)
+# AROL-CLOUD
 
 ## How to run project 
 
